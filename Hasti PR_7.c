@@ -68,7 +68,7 @@ void main()
 		 
 	}
 
-     }while(choice>0); 
+     }while(choice!=0); 
 
     
 }
@@ -125,3 +125,6 @@ Press 5 for ..
 Press 0 for the exit...
 Enter your choice : 0
 */
+
+
+
